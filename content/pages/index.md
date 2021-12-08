@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Descripción general de la empresa.
     subtitle: >-
-      I will handle your website design and production, social media accounts and digital advertisements for you, at an affordable price.
+      Profundizar un poco.
     actions:
       - label: Contact Me
         url: /contact
