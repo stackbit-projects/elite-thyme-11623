@@ -10,7 +10,7 @@ sections:
         url: /contact
         style: primary
     image: images/hero.png
-    image_alt: xx
+    image_alt: 
     media_position: right
     media_width: fifty
     align: left
