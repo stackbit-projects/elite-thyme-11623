@@ -6,7 +6,7 @@ sections:
     subtitle: >-
       Profundizar un poco.
     actions:
-      - label: Contacto
+      - label: Contact Me
         url: /contact
         style: primary
     image: images/hero.png
